@@ -1,0 +1,4 @@
+jdbcUrl = jdbc:mysql://127.0.0.1/btcltc?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = root
+password = Win@1234
+devMode = true
